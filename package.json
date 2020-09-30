@@ -1,0 +1,22 @@
+{
+  "name": "angular-property-grid",
+  "version": "1.0.0",
+  "description": "PropertyGrid on Angular 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyLastAngel/angular-property-grid.git"
+  },
+  "keywords": [
+    "PropertyGrid"
+  ],
+  "author": "s.naiden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyLastAngel/angular-property-grid/issues"
+  },
+  "homepage": "https://github.com/MyLastAngel/angular-property-grid#readme"
+}

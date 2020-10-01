@@ -3,11 +3,8 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'rlt-property-grid',
-  template: `
-    <button mat-raised-button color="primary">property-grid works!</button>
-    `,
-  styles: [
-  ]
+  templateUrl : './property-grid.component.html',
+  styleUrls: ['./property-grid.component.css']
 })
 export class PropertyGridComponent implements OnInit {
 
